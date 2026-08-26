@@ -4,7 +4,7 @@
 
 ### 📄 Resume
 
-[**View / Download my Resume →**](./__Roshna_KThomas__Resume__)
+[**View / Download my Resume →**](https://github.com/CodeBox14-Rosh/resume/blob/main/__Roshna_KThomas__Resume__.pdf)
 
 ### 🔗 Connect with me
 
